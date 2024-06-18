@@ -8,5 +8,10 @@
         "nome": "Anne ",
         "idade": 21,
         "filmes": ["Através do Aranhaverso"]
+    },
+    {
+        "nome": "geozinho",
+        "idade": 20,
+        "filmes": ["Miranha"]
     }
 ]
