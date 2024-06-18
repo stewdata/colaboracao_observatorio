@@ -5,6 +5,11 @@
         "filmes": ["o conde de monte cristo"]
     },
     {
+        "nome": "Carol",
+        "idade": 20,
+        "filmes": ["Mulan"]
+    },
+    {
         "nome": "João",
         "idade": 20,
         "filmes": ["Karate kid"]
