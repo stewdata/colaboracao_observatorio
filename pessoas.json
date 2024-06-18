@@ -5,6 +5,11 @@
         "filmes": ["o conde de monte cristo"]
     },
     {
+        "nome": "Diogo",
+        "idade": 20,
+        "filmes": ["A viagem de chihiro"]
+    },
+    {
         "nome": "Netto",
         "idade": 28,
         "filmes": ["As vantagens de ser invisivel", "Viva, a vida e uma festa", "Your Name"]
