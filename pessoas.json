@@ -3,6 +3,11 @@
         "nome": "Stewart",
         "idade": 38,
         "filmes": ["o conde de monte cristo"]
+    }, 
+    {
+        "nome": "Alyne ",
+        "idade": 22,
+        "filmes": ["Sociedade dos Poetas Mortos"]
     },
     {
         "nome": "Diogo",
