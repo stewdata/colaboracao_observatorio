@@ -5,6 +5,11 @@
         "filmes": ["o conde de monte cristo"]
     }, 
     {
+        "nome": "Emily",
+        "idade": 25,
+         "filmes": ["Brilho eterno de uma mente sem lembranças"]
+    },
+    {
         "nome": "Alyne ",
         "idade": 22,
         "filmes": ["Sociedade dos Poetas Mortos"]
