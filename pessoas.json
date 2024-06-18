@@ -8,5 +8,30 @@
         "nome": "Emily",
         "idade": 25,
          "filmes": ["Brilho eterno de uma mente sem lembranças"]
+    },
+    {
+        "nome": "Alyne ",
+        "idade": 22,
+        "filmes": ["Sociedade dos Poetas Mortos"]
+    },
+    {
+        "nome": "Diogo",
+        "idade": 20,
+        "filmes": ["A viagem de chihiro"]
+    },
+    {
+        "nome": "Netto",
+        "idade": 28,
+        "filmes": ["As vantagens de ser invisivel", "Viva, a vida e uma festa", "Your Name"]
+    },
+    {
+        "nome": "Anne ",
+        "idade": 21,
+        "filmes": ["Através do Aranhaverso"]
+    },
+    {
+        "nome": "geozinho",
+        "idade": 20,
+        "filmes": ["Miranha"]
     }
 ]
