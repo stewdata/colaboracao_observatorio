@@ -5,6 +5,11 @@
         "filmes": ["o conde de monte cristo"]
     },
     {
+        "nome": "Carl",
+        "idade": 389,
+        "filmes": ["barbie vida de sereia"]
+    },
+    {
         "nome": "Carol",
         "idade": 20,
         "filmes": ["Mulan"]
@@ -50,3 +55,4 @@
         "filmes": ["Miranha"]
     }
 ]
+  
