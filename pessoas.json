@@ -4,10 +4,19 @@
         "idade": 38,
         "filmes": ["o conde de monte cristo"]
     },
-
     {
         "nome": "Netto",
         "idade": 28,
         "filmes": ["As vantagens de ser invisivel", "Viva, a vida e uma festa", "Your Name"]
+    },
+    {
+        "nome": "Anne ",
+        "idade": 21,
+        "filmes": ["Através do Aranhaverso"]
+    },
+    {
+        "nome": "geozinho",
+        "idade": 20,
+        "filmes": ["Miranha"]
     }
 ]
