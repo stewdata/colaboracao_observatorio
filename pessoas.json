@@ -8,5 +8,10 @@
         "nome": "Carol",
         "idade": 20,
         "filmes": ["Mulan"]
+    },
+    {
+        "nome": "geozinho",
+        "idade": 20,
+        "filmes": ["Miranha"]
     }
 ]
