@@ -3,6 +3,11 @@
         "nome": "Stewart",
         "idade": 38,
         "filmes": ["o conde de monte cristo"]
+    },
+    {
+        "nome": "Gabriel",
+        "idade": 22,
+        "filmes": ["Vingadores"]
     }, 
     {
         "nome": "Emily",
