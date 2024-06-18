@@ -3,5 +3,11 @@
         "nome": "Stewart",
         "idade": 38,
         "filmes": ["o conde de monte cristo"]
+    },
+    {
+        "nome": "Carl",
+        "idade": 389,
+        "filmes": ["barbie vida de sereia"]
     }
 ]
+  
