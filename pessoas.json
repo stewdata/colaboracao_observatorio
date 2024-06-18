@@ -3,5 +3,10 @@
         "nome": "Stewart",
         "idade": 38,
         "filmes": ["o conde de monte cristo"]
+    }, 
+    {
+        "nome": "Emily",
+        "idade": 25,
+         "filmes": ["Brilho eterno de uma mente sem lembranças"]
     }
 ]
