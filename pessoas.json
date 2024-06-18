@@ -3,5 +3,10 @@
         "nome": "Stewart",
         "idade": 38,
         "filmes": ["o conde de monte cristo"]
+    },
+    {
+        "nome": "Anne ",
+        "idade": 21,
+        "filmes": ["Através do Aranhaverso"]
     }
 ]
